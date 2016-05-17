@@ -30,6 +30,7 @@ public class EmpleadosBR {
 		else if(salariobruto>=1500){
 			salariobruto=(float) (salariobruto*1.18);
 			System.out.println("hola");
+			System.out.println("Has sido...MODIFICADO");
 		}
 		
 		return salariobruto;
